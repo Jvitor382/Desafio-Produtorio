@@ -1,5 +1,5 @@
 # Desafio-Produtorio
-Produtorio com base na equação xi = i + 1/i
+Produtorio com base na equação xi = i + 1/i - Resolvido por meio de iterações.
 
 Para inserir os valores use o http://localhost: portaescolhida /produtorio/ limite inferior/limite superior
 
